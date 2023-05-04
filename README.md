@@ -15,11 +15,8 @@ The XACML extension for graphs (XACML4G) is based on the extensible access contr
 - Josef Küng
 
 Institute of Application-oriented Knowledge Processing / LIT Secure and Correct Systems Lab
-
 Johannes Kepler University (JKU) Linz
-
 Altenberger Straße 69
-
 4040 Linz, Austria
 
 ## License
