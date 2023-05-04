@@ -24,4 +24,4 @@ Altenberger Straße 69<br/>
 4040 Linz, Austria
 
 ## License
-This repository contains a source code based on WSO2 Balana, which has a [license of Sun's XACML implementation](https://sunxacml.sourceforge.net/license.txt) and released under [Apache2 license](https://www.apache.org/licenses/LICENSE-2.0).
+This repository contains source code based on WSO2 Balana, which has a [license of Sun's XACML implementation](https://sunxacml.sourceforge.net/license.txt) and released under [Apache2 license](https://www.apache.org/licenses/LICENSE-2.0).
