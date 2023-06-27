@@ -9,7 +9,7 @@ The XACML extension for graphs (XACML4G) is based on the extensible access contr
 
 ## Additional materials
 - XACML Extension for Graphs: Flexible Authorization Policy Specification and Datastore-independent Enforcement<br/>
-  - [Full paper (arXiv)](https://www.google.com)
+  - [Full paper (arXiv)](https://arxiv.org/abs/2306.12819)
 
 ## Contacts
 
